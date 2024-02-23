@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<rss version='2.0'>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
 	<channel>
 		<title>Warm Focus</title>
 		<link>https://bff.fm/shows/warm-focus</link>
 		<description>Podcast feed for Warm Focus show</description>
-		<itunes:image>https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png'</itunes:image>
+		<itunes:category text="Music"/>
+		<itunes:image href="https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png" />
+		<image>
+			<url>https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png</url>
+			<title>Warm Focus</title>
+			<link>https://bff.fm/shows/warm-focus</link>
+		</image>
 		<item>
 			<title>Warm Focus: This Bird Has Flown</title>
 			<pubDate>October 26 2016</pubDate>
