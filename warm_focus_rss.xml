@@ -3,9 +3,23 @@
 	<channel>
 		<title>Warm Focus</title>
 		<link>https://bff.fm/shows/warm-focus</link>
-		<description>Podcast feed for Warm Focus show</description>
+		<description>Uninterrupted instrumentals designed to induce a state of Flow.</description>
 		<itunes:category text="Music"/>
 		<itunes:image href="https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png" />
+		<atom:author>
+			<atom:name>Hoverbird</atom:name>
+			<atom:uri>https://bff.fm/people/hoverbird</atom:uri>
+		</atom:author>
+		<dc:creator>Hoverbird</dc:creator>
+		<itunes:summary><![CDATA[<p>Warm Focus is genre agnostic instrumental music, walking the line between mellow &amp; energetic, digital &amp; analog, high &amp; low BPM. Each week we attempt to induce a two-hour state of Flow in the listener: the sense that your work is carrying you along effortlessly like a log in a stream.</p><p>Long, uninterrupted sets of instrumental music carefully selected as a background for doing creative work. I aim to energize and focus the mind without ever feeling distracting or alienating. Warm, human music weaving between between the background and the foreground.</p><p>In practice, music that fits this bill can come from a wide array of genres, but I work hard to make each song in the set feels "of a piece". Some broad-callouts of the kinds of things I would include: electronic (Plaid, Four Tet, Pantha du Prince, Kate Simko), instrumental Hip-Hop (J Dilla, MF Doom, Oddisee, Ta-Ku), modern composers (David Axelrod, Hauschka, Nicolas Jaar, Philip Glass, Jon Brion).</p>]]></itunes:summary>
+		<itunes:image href="https://a.bff.fm/image/itunes/Warm_Focus_Cover_Shrunk_Cropped.png"/>
+		<itunes:owner>
+			<itunes:name>BFF.fm</itunes:name>
+			<itunes:email>podcasts@bff.fm</itunes:email>
+		</itunes:owner>
+		<itunes:author>Hoverbird</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>yes</itunes:block>
 		<image>
 			<url>https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png</url>
 			<title>Warm Focus</title>
