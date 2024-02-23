@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <rss version='2.0'>
 	<channel>
-		<title>Warm Focus
-Podcast</title>
+		<title>Warm Focus</title>
 		<link>https://bff.fm/shows/warm-focus</link>
 		<description>Podcast feed for Warm Focus show</description>
 		<itunes:image>https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png'</itunes:image>
