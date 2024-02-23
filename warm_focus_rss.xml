@@ -5,7 +5,7 @@
 Podcast</title>
 		<link>https://bff.fm/shows/warm-focus</link>
 		<description>Podcast feed for Warm Focus show</description>
-		<itunes:image url='https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png' />
+		<itunes:image>https://a.bff.fm/image/original/Warm_Focus_Cover_Shrunk_Cropped.png'</itunes:image>
 		<item>
 			<title>Warm Focus: This Bird Has Flown</title>
 			<pubDate>October 26 2016</pubDate>
